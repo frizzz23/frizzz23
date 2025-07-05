@@ -15,8 +15,9 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/frizzz23/frizzz23/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/frizzz23/frizzz23/output/github-snake.svg" />
-<img src="https://raw.githubusercontent.com/frizzz23/frizzz23/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/frizzz23/frizzz23/output/github-snake.svg" alt="Snake animation" />
 </picture>
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
